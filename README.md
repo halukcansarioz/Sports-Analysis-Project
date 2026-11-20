@@ -64,12 +64,12 @@ As part of my continuous self‑improvement journey after graduating from Ankara
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/halukcansarioz/spor-analizi-calismasi.git
+git clone https://github.com/halukcansarioz/Sports-Analysis-Project.git
 ```
 
 **2. Navigate to the project directory:**
 ```bash
-cd spor-analizi-calismasi
+cd Sports-Analysis-Project
 ```
 
 **3. Create a virtual environment (recommended):**
