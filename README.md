@@ -9,6 +9,7 @@
 
 Welcome to the **Sports Analysis Study** repository! This project focuses on exploring, cleaning, and analyzing sports‑related datasets to uncover trends, player statistics, and match performance insights using data science methodologies.
 
+
 ## 📚 Table of Contents
 - [About the Project](#about-the-project)
 - [Features & Scope](#features--scope)
