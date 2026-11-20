@@ -42,6 +42,23 @@ As part of my continuous self‑improvement journey after graduating from Ankara
 
 ---
 
+## Pipeline Architecture
+
+```mermaid
+flowchart LR
+    A[NBA Raw Data] --> B[Data Preparation & Cleaning]
+    B --> C[Feature Engineering]
+    C --> D[Model Training & Tuning]
+    D --> E1[XGBoost]
+    D --> E2[LightGBM]
+    D --> E3[CatBoost]
+    E1 --> F[Evaluation & Predictions]
+    E2 --> F
+    E3 --> F
+```
+
+
+
 ## Tech Stack
 
 | Category | Technology |
