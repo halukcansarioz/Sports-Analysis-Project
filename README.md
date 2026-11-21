@@ -15,6 +15,7 @@ Welcome to the **Sports Analysis Study** repository! This project focuses on exp
 - [Features & Scope](#features--scope)
 - [Tech Stack](#tech-stack)
 - [Installation & Usage](#installation--usage)
+- [Interactive Web Demo](#interactive-web-demo)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -109,6 +110,24 @@ Open the `veri_madenciliği.ipynb` file in your browser.
 
 ### Using Google Colab
 To run the notebook directly in your browser without any installation, click the **"Open in Colab"** badge above.
+
+---
+
+
+## Interactive Web Demo
+
+An interactive Streamlit demo (`app.py`) is included to explore NBA player performance profiles and predict next-game fantasy points in real time.
+
+### Features
+- **Player Archetype Presets:** Switch between Guard, Wing, and Center archetypes or customize recent averages (`MIN`, `PTS`, `REB`, `AST`, `STL`, `BLK`, `TOV`, `FG%`).
+- **Dual Prediction Comparison:** Compares the **NBA Standard Fantasy Scoring Formula** against a **Ridge Regression** model prediction.
+- **Visual Analytics:** Displays a simulated 10-game trend with next-game projection and a per-stat fantasy point contribution breakdown.
+
+### Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 
