@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
+[![CI](https://github.com/halukcansarioz/Sports-Analysis-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/halukcansarioz/Sports-Analysis-Project/actions/workflows/ci.yml)
 
 Welcome to the **Sports Analysis Study** repository! This project focuses on exploring, cleaning, and analyzing sports‑related datasets to uncover trends, player statistics, and match performance insights using data science methodologies.
 
